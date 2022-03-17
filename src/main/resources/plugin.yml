@@ -1,0 +1,6 @@
+name: NewDayData
+version: '${version}'
+main: org.lumenk.newday.newdaydata.NewDayData
+api-version: 1.18
+authors: [ SeHyeonBak ]
+description: Data I/O for NewDay
